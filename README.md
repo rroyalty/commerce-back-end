@@ -15,7 +15,7 @@
 <a name="Description"></a>
 ### Description
 
-This app is purely a back end application using sequelize to track Products, Tags, and Categories, in addition to the relationships between them. There are routes to get, create, update, and delete entries in all 3 tables.  
+This app is purely a back end application using sequelize to track Products, Tags, and Categories for an e-commerce application, in addition to the relationships between them. There are routes to get, create, update, and delete entries in all 3 tables.  
 
 Example Videos:
 

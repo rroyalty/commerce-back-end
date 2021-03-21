@@ -31,13 +31,14 @@ Example Videos:
 
 To install the application locally:  
 1.  Clone the Repository to your local device and navigate to the folder in your terminal.  
-2.  Using your Terminal, run `npm install` in the directory of the cloned repository.  
-3.  Using your Terminal, run `mysql -u *username* -p` in the directory of the cloned repository.  
-4.  Input your password for your MySQL database when prompted.  
-5.  Using your Terminal, run `node seeds/index.js` to seed your database.
-6.  Input your database credentials.  
-7.  Using your Terminal, run `nodemon index`.
-8.  Using Postman, experiment with API commands using the host `http://localhost:3001/`
+2.  Input appropriate credentials into your .env file.
+3.  Using your Terminal, run `npm install` in the directory of the cloned repository.  
+4.  Using your Terminal, run `mysql -u *username* -p` in the directory of the cloned repository.  
+5.  Input your password for your MySQL database when prompted.  
+6.  Using your Terminal, run `node seeds/index.js` to seed your database.
+7.  Input your database credentials.  
+8.  Using your Terminal, run `nodemon index`.
+9.  Using Postman, experiment with API commands using the host `http://localhost:3001/`
 
 ---
 <a name="Usage"></a>

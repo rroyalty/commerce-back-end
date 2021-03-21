@@ -33,8 +33,8 @@ To install the application locally:
 1.  Clone the Repository to your local device and navigate to the folder in your terminal.  
 2.  Input appropriate credentials into your .env file.
 3.  Using your Terminal, run `npm install` in the directory of the cloned repository.  
-4.  Using your Terminal, run `mysql -u *username* -p` in the directory of the cloned repository.  
-5.  Input your password for your MySQL database when prompted.  
+4.  Using your Terminal, run `mysql -u (your username - probably 'root') -p` in the directory of the cloned repository.  
+5.  Input your password for your MySQL shell when prompted.  
 6.  Using your Terminal, run `node seeds/index.js` to seed your database.
 7.  Input your database credentials.  
 8.  Using your Terminal, run `nodemon index`.
